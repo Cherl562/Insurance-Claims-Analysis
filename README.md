@@ -21,3 +21,7 @@ Cleaning and merging datasets for accurate reporting
 Designing a recruiter-friendly dashboard layout
 Translating raw data into actionable insights
 
+Author:
+Cherdale Lake
+Aspiring Data / Systems Analyst
+Skills: SQL | Power BI | Python (basic) | Data Analysis
