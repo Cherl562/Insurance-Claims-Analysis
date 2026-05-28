@@ -1,0 +1,11 @@
+claim_id,customer_id,claim_date,claim_type,claim_amount,status
+1001,1,1/10/2024,Auto Accident,4500,Approved
+1002,2,2/15/2024,Fire Damage,12000,Pending
+1003,3,3/5/2024,Auto Accident,3000,Denied
+1004,4,3/20/2024,Theft,8000,Approved
+1005,5,4/2/2024,Auto Accident,5000,Approved
+1006,6,4/18/2024,Water Damage,7000,Pending
+1007,7,5/1/2024,Auto Accident,2500,Approved
+1008,8,5/10/2024,Health,15000,Denied
+1009,1,5/15/2024,Auto Accident,6000,Approved
+1010,2,5/20/2024,Fire Damage,11000,Approved

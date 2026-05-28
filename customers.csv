@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,state,age,policy_type,policy_start_date
+1,John,Smith,FL,34,Auto,1/15/2022
+2,Sarah,Johnson,TX,45,Home,6/10/2021
+3,Michael,Brown,FL,29,Auto,3/22/2023
+4,Emily,Davis,CA,52,Life,11/5/2020
+5,David,Miller,NY,38,Auto,9/14/2022
+6,Lisa,Wilson,FL,41,Home,2/18/2021
+7,James,Moore,TX,33,Auto,7/1/2023
+8,Patricia,Taylor,CA,60,Life,8/20/2019
